@@ -1,0 +1,2 @@
+{ "short_name": "V&C Lab", "name": "V&C Boutique · Laboratorio jQuery", "start_url": "./index.html", "scope": "./", "display": "standalone", "orientation": "portrait", "background_color": "#fffdfd", "theme_color": "#c94f83",
+  "icons": [ { "src": "../icons/icon-192.png", "type": "image/png", "sizes": "192x192" }, { "src": "../icons/icon-512.png", "type": "image/png", "sizes": "512x512" } ] }
